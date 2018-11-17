@@ -1,6 +1,4 @@
 import psycopg2
-import logging
-import pickle
 
 # Define varibales with the questions need to be answered
 q1 = ('1-What are the most popular three articles of all time?')
